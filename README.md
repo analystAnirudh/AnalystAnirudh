@@ -1,21 +1,26 @@
-# 💫 About Me:
-I am a Data-cum-Business Analyst<br>Talk me About: SQL, Power BI, Advance-Excel, Python<br>Currently I am working on Building District by ZOMATO<br>Have worked on multiple Data-Analytics Projects and enhanced Stakeholders decision making
+<h1 align="center">Hi 👋, I'm Anirudh Chaudhary</h1>
+<h3 align="center">A Passionate Data-cum-Business Analyst</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=analystanirudh&label=Profile%20views&color=0e75b6&style=flat" alt="analystanirudh" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirrudhchaudhry) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudh.chaudharyofficial@gmail.com) 
+- 🔭 I’m currently working on **Building District by ZOMATO**
 
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=analystanirudh&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=analystanirudh&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=analystanirudh&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 💬 Ask me about **Excel, Power BI, MySQL, Tableau, Python, Looker-Studio**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=analystanirudh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 📫 How to reach me **anirudh.chaudharyofficial@gmail.com**
 
----
-[![](https://visitcount.itsvg.in/api?id=analystanirudh&icon=0&color=0)](https://visitcount.itsvg.in)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17DC7gzvPvvcD2asaZRpuxA0Z_CrTqIVc/view?usp=sharing](https://drive.google.com/file/d/17DC7gzvPvvcD2asaZRpuxA0Z_CrTqIVc/view?usp=sharing)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anirrudhchaudhry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirrudhchaudhry" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=analystanirudh&show_icons=true&locale=en&layout=compact" alt="analystanirudh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analystanirudh&show_icons=true&locale=en" alt="analystanirudh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analystanirudh&" alt="analystanirudh" /></p>
